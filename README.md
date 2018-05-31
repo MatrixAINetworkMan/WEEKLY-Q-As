@@ -19,6 +19,4 @@ Thanks to all our community members and fans who sent us questions regarding our
 2.Can you commit a date for main net token swap?
 
 
-3.I was wondering if we could get a progress update on the development of Matrix. What are the next milestones to be achieved before the test-net launch and are we still on track to release the test-net in September 2018?
-
-4.A detailed explanation of the delegate nodes (supernodes): How MATRIX can be more decentralized than EOS? How to choose delegate nodes and achieve consensus?
+3.A detailed explanation of the delegate nodes (supernodes): How MATRIX can be more decentralized than EOS? How to choose delegate nodes and achieve consensus?
