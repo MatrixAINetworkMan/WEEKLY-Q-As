@@ -42,5 +42,7 @@ Thanks to all our community members and fans who sent us questions regarding our
 
 But it does not tell us why these new interfaces are included and why they are an improvement to the original Ethereum code. Can you tell us?
 
-2.As you know, the consensus mechanism for a project is the most important part for security. Given that Matrix is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
+2.As you know, the consensus mechanism for a project is the most important part for security. Given that MATRIX is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
 
+
+3.What are and what is needed to have 1000 TPS, which are required to have a mining MATRIX node?
