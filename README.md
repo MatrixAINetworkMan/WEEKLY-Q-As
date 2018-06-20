@@ -26,10 +26,12 @@ Thanks to all our community members and fans who sent us questions regarding our
 5.Can you anticipated ROI for a Masternode and confirm whether the 10k token threshold is confirmed?
 
 
-QUESTIONS COMING NEXT
+### QUESTIONS RECAP (2018.6.11)
 
 1.Despite the great answers from the team, it seems like each week we are left with new questions. Would you be able to release complete yellow-papers detailing completely the technical design framework for consensus, node election, and smart contracts?
 
 2.What hardware do you think will be required in September and December to run a node capable of 1, 000 tps?
 
 3.How many kinds of masternodes will be there?
+
+
