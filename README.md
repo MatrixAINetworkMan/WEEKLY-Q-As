@@ -35,3 +35,12 @@ Thanks to all our community members and fans who sent us questions regarding our
 3.How many kinds of masternodes will be there?
 
 
+### QUESTIONS COMING NEXT (2018.6.21)
+
+1.The recent github upload of the crypto GO implementation tells us the different things which have been done and what it contains, for example:
+"Signature_cgo.go and crypto.go under crypto are ethereum's original crypto algorithm interface files for external calling, and based on this, we introduced two more interfaces SignEx and VerifySignatureEx which will be used for signature verification. Ecrecover and EcrecoverEx interfaces supports public key recovery. generateKeyEx is the new interface for publick/private key generation"
+
+But it does not tell us why these new interfaces are included and why they are an improvement to the original Ethereum code. Can you tell us?
+
+2.As you know, the consensus mechanism for a project is the most important part for security. Given that Matrix is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
+
