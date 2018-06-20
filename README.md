@@ -26,10 +26,23 @@ Thanks to all our community members and fans who sent us questions regarding our
 5.Can you anticipated ROI for a Masternode and confirm whether the 10k token threshold is confirmed?
 
 
-QUESTIONS COMING NEXT
+### QUESTIONS RECAP (2018.6.11)
 
 1.Despite the great answers from the team, it seems like each week we are left with new questions. Would you be able to release complete yellow-papers detailing completely the technical design framework for consensus, node election, and smart contracts?
 
 2.What hardware do you think will be required in September and December to run a node capable of 1, 000 tps?
 
 3.How many kinds of masternodes will be there?
+
+
+### QUESTIONS COMING NEXT (2018.6.21)
+
+1.The recent github upload of the crypto GO implementation tells us the different things which have been done and what it contains, for example:
+"Signature_cgo.go and crypto.go under crypto are ethereum's original crypto algorithm interface files for external calling, and based on this, we introduced two more interfaces SignEx and VerifySignatureEx which will be used for signature verification. Ecrecover and EcrecoverEx interfaces supports public key recovery. generateKeyEx is the new interface for publick/private key generation"
+
+But it does not tell us why these new interfaces are included and why they are an improvement to the original Ethereum code. Can you tell us?
+
+2.As you know, the consensus mechanism for a project is the most important part for security. Given that MATRIX is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
+
+
+3.What are and what is needed to have 1000 TPS, which are required to have a mining MATRIX node?
