@@ -46,3 +46,5 @@ But it does not tell us why these new interfaces are included and why they are a
 
 
 3.What are and what is needed to have 1000 TPS, which are required to have a mining MATRIX node?
+
+4.As you know, the consensus mechanism for a project is the most important part for security. Given that MATRIX is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
