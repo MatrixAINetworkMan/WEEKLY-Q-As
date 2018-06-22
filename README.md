@@ -7,7 +7,7 @@ Here is the place for:
 
 🚀MATRIX AI development
 
-Questions of the top concerns are mainly collected from MATRIX community members, and our experts will always be there to answer and explian.
+Questions of the top concerns are mainly collected from MATRIX community members, and our experts will always be there to answer and explain.
 
 Thanks to all our community members and fans who sent us questions regarding our work. We received many questions and selected the most repeated ones.
 
