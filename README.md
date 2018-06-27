@@ -35,7 +35,7 @@ Thanks to all our community members and fans who sent us questions regarding our
 3.How many kinds of masternodes will be there?
 
 
-### QUESTIONS COMING NEXT (2018.6.21)
+### QUESTIONS RECAP (2018.6.21)
 
 1.The recent github upload of the crypto GO implementation tells us the different things which have been done and what it contains, for example:
 "Signature_cgo.go and crypto.go under crypto are ethereum's original crypto algorithm interface files for external calling, and based on this, we introduced two more interfaces SignEx and VerifySignatureEx which will be used for signature verification. Ecrecover and EcrecoverEx interfaces supports public key recovery. generateKeyEx is the new interface for publick/private key generation"
@@ -48,3 +48,10 @@ But it does not tell us why these new interfaces are included and why they are a
 3.What are and what is needed to have 1000 TPS, which are required to have a mining MATRIX node?
 
 4.As you know, the consensus mechanism for a project is the most important part for security. Given that MATRIX is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
+
+### QUESTIONS COMING NEXT (2018.6.29)
+
+1.When can we expect the paper with additional details about  MATRIX’s unique algorithm? 
+
+2.Can you share what CPU you’re using in your Dell R730 server? Is it a 1x CPU or 2x? How much RAM are you using? Some basic specifications will make it easier to research servers and gear.
+
