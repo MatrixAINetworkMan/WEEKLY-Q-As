@@ -60,4 +60,4 @@ But it does not tell us why these new interfaces are included and why they are a
 ### QUESTIONS COMING NEXT (2018.7.6)
 
 1. Can you explain more about the selection process for masternodes? Does holding more MAN increase the odds of being selected for a masternode? How many masternodes are available and for how long can someone be assigned as masternode?
-2. 
+2. Can you explain more about the rewards system in place for validator nodes? So far only the distribution model is known.
