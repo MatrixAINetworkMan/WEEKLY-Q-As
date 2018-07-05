@@ -55,4 +55,9 @@ But it does not tell us why these new interfaces are included and why they are a
 
 2.Can you share what CPU you’re using in your Dell R730 server? Is it a 1x CPU or 2x? How much RAM are you using? Some basic specifications will make it easier to research servers and gear.
 
-3.When can we expect the paper with additional details about  MATRIX’s unique algorithm? 
+3.When can we expect the paper with additional details about MATRIX’s unique algorithm? 
+
+### QUESTIONS COMING NEXT (2018.7.6)
+
+1. Can you explain more about the selection process for masternodes? Does holding more MAN increase the odds of being selected for a masternode? How many masternodes are available and for how long can someone be assigned as masternode?
+2. 
