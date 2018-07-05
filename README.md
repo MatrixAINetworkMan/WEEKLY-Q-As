@@ -49,9 +49,15 @@ But it does not tell us why these new interfaces are included and why they are a
 
 4.As you know, the consensus mechanism for a project is the most important part for security. Given that MATRIX is using MCMC as a cryptographic hash, will you ensure it is academically and commercially peer reviewed before it goes live? Sha256 and similar algorithms have gone through rigorous academic review.
 
-### QUESTIONS COMING NEXT (2018.6.29)
+### QUESTIONS RECAP (2018.6.29)
 
 1.When can we expect the paper with additional details about  MATRIX’s unique algorithm? 
 
 2.Can you share what CPU you’re using in your Dell R730 server? Is it a 1x CPU or 2x? How much RAM are you using? Some basic specifications will make it easier to research servers and gear.
 
+3.When can we expect the paper with additional details about MATRIX’s unique algorithm? 
+
+### QUESTIONS COMING NEXT (2018.7.6)
+
+1. Can you explain more about the selection process for masternodes? Does holding more MAN increase the odds of being selected for a masternode? How many masternodes are available and for how long can someone be assigned as masternode?
+2. Can you explain more about the rewards system in place for validator nodes? So far only the distribution model is known.
