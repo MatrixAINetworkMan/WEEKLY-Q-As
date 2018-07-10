@@ -65,3 +65,5 @@ But it does not tell us why these new interfaces are included and why they are a
 ### QUESTIONS COMING NEXT (2018.7.13)
 
 Q1. Is it true the random selection algorithm ties a unique ID to your hardware setup for the selection of nodes? if yes, does this mean the odds of being selected for a node increase the more devices you hold MAN on?
+
+Q2. Will miners be able to use multiple separate devices to mine on the same node? The two mining setups shown were each a single device, but it could be more practical for miners to use multiple devices to reach the 1000tps for a MN.
