@@ -67,3 +67,9 @@ But it does not tell us why these new interfaces are included and why they are a
 Q1. Is it true the random selection algorithm ties a unique ID to your hardware setup for the selection of nodes? if yes, does this mean the odds of being selected for a node increase the more devices you hold MAN on?
 
 Q2. Will miners be able to use multiple separate devices to mine on the same node? The two mining setups shown were each a single device, but it could be more practical for miners to use multiple devices to reach the 1000tps for a MN.
+
+### QUESTIONS COMING NEXT
+
+Q1. Lets say I own 50000 MAN and my brother own 50000 MAN，From economical side of view would it be more profitable and make more sense to put tokens together and run verification masternode, then split profits half, or run 2 x 50 000 mining masternodes separatelly.
+
+Q2. What happens when all these tokens are distributed? How wil matrix continue to give rewards to miners and masternodes?  Will smart contracts on Matrix require fuel in the form of MAN? And use these tokens to reward miners and masternodes?
