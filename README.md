@@ -68,7 +68,7 @@ Q1. Is it true the random selection algorithm ties a unique ID to your hardware 
 
 Q2. Will miners be able to use multiple separate devices to mine on the same node? The two mining setups shown were each a single device, but it could be more practical for miners to use multiple devices to reach the 1000tps for a MN.
 
-### QUESTIONS COMING NEXT
+### QUESTIONS RECAP (2018.7.20)
 
 Q1. Lets say I own 50000 MAN and my brother own 50000 MAN，From economical side of view would it be more profitable and make more sense to put tokens together and run verification masternode, then split profits half, or run 2 x 50 000 mining masternodes separatelly.
 
