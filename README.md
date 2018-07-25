@@ -73,3 +73,8 @@ Q2. Will miners be able to use multiple separate devices to mine on the same nod
 Q1. Lets say I own 50000 MAN and my brother own 50000 MAN，From economical side of view would it be more profitable and make more sense to put tokens together and run verification masternode, then split profits half, or run 2 x 50 000 mining masternodes separatelly.
 
 Q2. What happens when all these tokens are distributed? How wil matrix continue to give rewards to miners and masternodes?  Will smart contracts on Matrix require fuel in the form of MAN? And use these tokens to reward miners and masternodes?
+
+
+### QUESTIONS COMING NEXT (2018.7.27)
+
+Q1. GitHub update on the PoC, Python Version (last update was 2 months ago), the team puts "Weekly Update" in the folder but seeing no progress.
