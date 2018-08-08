@@ -78,3 +78,7 @@ Q2. What happens when all these tokens are distributed? How wil matrix continue 
 ### QUESTIONS RECAP (2018.7.27)
 
 Q1. GitHub update on the PoC, Python Version (last update was 2 months ago), the team puts "Weekly Update" in the folder but seeing no progress.
+
+### QUESTIONS RECAP (2018.8.3)
+
+Q1. Is Matrix AI quantum resistant? 
