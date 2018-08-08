@@ -75,6 +75,10 @@ Q1. Lets say I own 50000 MAN and my brother own 50000 MAN，From economical side
 Q2. What happens when all these tokens are distributed? How wil matrix continue to give rewards to miners and masternodes?  Will smart contracts on Matrix require fuel in the form of MAN? And use these tokens to reward miners and masternodes?
 
 
-### QUESTIONS COMING NEXT (2018.7.27)
+### QUESTIONS RECAP (2018.7.27)
 
 Q1. GitHub update on the PoC, Python Version (last update was 2 months ago), the team puts "Weekly Update" in the folder but seeing no progress.
+
+### QUESTIONS RECAP (2018.8.3)
+
+Q1. Is Matrix AI quantum resistant? 
