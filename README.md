@@ -82,3 +82,8 @@ Q1. GitHub update on the PoC, Python Version (last update was 2 months ago), the
 ### QUESTIONS RECAP (2018.8.3)
 
 Q1. Is Matrix AI quantum resistant? 
+
+
+### QUESTIONS RECAP (2018.8.17)
+
+Q1. Could you describe in detail about the format of MATRIX network wallet address?
